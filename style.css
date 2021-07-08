@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(125, 200, 243);
+}
+
+.container{
+    text-align: left;
+}
+span{
+    color: red;
+    font-size: 16px;
+}
+li img{
+    width: 200px;
+    border-radius: 20px;
+}
+.text_images_and_result{
+    background-color: #f8faff;
+    padding: 30px;
+    border-radius: 20px;
+    width: 50%;
+    display: inline-block;
+    box-shadow: 5px 5px 18px gray;
+    margin-bottom: 10px;
+}
+.bob3{
+    text-align: center;
+    background-color: #bf91e5;
+    border-radius: 20px;
+    padding: 10px;
+}
